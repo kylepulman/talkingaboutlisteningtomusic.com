@@ -31,7 +31,7 @@ export default function RootLayout({
         <div className='max-w-md my-8 mx-auto'>
           <header className='mb-8'>
             <h1>
-              <Link href='/'>Talking About Listening To Music</Link>
+              <Link href='/' className='underline'>Talking About Listening To Music</Link>
             </h1>
           </header>
           <main className="prose prose-invert">
